@@ -1,7 +1,7 @@
 import requests
 
 # 🔐 Insert your API key here
-YOUTUBE_API_KEY = "AIzaSyA1d_UPH8ssfTVvtvVFffTqftgg0ttE6_8"  # Replace with your actual API key
+YOUTUBE_API_KEY = ""  # Replace with your actual API key
 
 # 🧠 Emotion to music search query mapping
 emotion_to_query = {
